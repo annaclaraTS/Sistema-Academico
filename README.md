@@ -1,25 +1,25 @@
-## 🏫 Sistema Acadêmico — Projeto de Revisão
+# 🏫 Sistema Acadêmico — Projeto de Revisão
 
 Bem-vindo(a) ao repositório do Sistema Acadêmico, desenvolvido como atividade de revisão da disciplina.
 O objetivo deste projeto é aplicar de forma prática todos os conteúdos estudados, criando um programa funcional, organizado e bem comentado.
 
-## 🎯 Objetivo do Projeto
+# 🎯 Objetivo do Projeto
 
 Criar um sistema acadêmico simples que permita:
 
-# 👤 Cadastro do Estudante
+## 👤 Cadastro do Estudante
 
 Registrar 5 dados principais do aluno (como nome, idade, matrícula, curso, turno — ou outros escolhidos pelo autor).
 
-# 📚 Cadastro de Disciplinas
+## 📚 Cadastro de Disciplinas
 
 Cadastrar 5 disciplinas do curso TIPI.
 
-# 📝 Cadastro de Notas
+## 📝 Cadastro de Notas
 
 Inserir a nota final (0 a 10) para cada disciplina.
 
-# 📊 Regras de Avaliação
+## 📊 Regras de Avaliação
 Situação de cada disciplina
 
 Aprovado com distinção: nota = 10
@@ -36,7 +36,7 @@ Passou com dependência: até 2 reprovações
 
 Retido: mais de 2 reprovações
 
-# 📄 Resultado Final
+## 📄 Resultado Final
 
 O programa deve exibir:
 
@@ -46,7 +46,7 @@ O programa deve exibir:
 
 ✔️ Situação final do aluno no ano
 
-## 🧠 Conteúdos obrigatórios usados no código
+# 🧠 Conteúdos obrigatórios usados no código
 
 O projeto revisa todos os tópicos de programação vistos durante a disciplina, incluindo:
 

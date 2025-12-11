@@ -36,7 +36,7 @@ Passou com dependência: até 2 reprovações
 
 Retido: mais de 2 reprovações
 
-#📄 Resultado Final
+# 📄 Resultado Final
 
 O programa deve exibir:
 
@@ -46,7 +46,7 @@ O programa deve exibir:
 
 ✔️ Situação final do aluno no ano
 
-##🧠 Conteúdos obrigatórios usados no código
+## 🧠 Conteúdos obrigatórios usados no código
 
 O projeto revisa todos os tópicos de programação vistos durante a disciplina, incluindo:
 
